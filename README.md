@@ -33,4 +33,4 @@ Target column is Percentage of getting chances of admission.
 
 So we see that from pairplot that all featues are highly corealated with target variable so choose linear regression model.
 
-And check model performance  on the basis of r2 scre which is very good 0.82. 
+And check model performance  on the basis of r2 score which is very good 0.82. 
