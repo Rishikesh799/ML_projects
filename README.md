@@ -1,4 +1,7 @@
 # ML_projects
+
+# Insurance Project
+
 Content
 Information about Columns:
 
@@ -18,3 +21,16 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 charges: Individual medical costs billed by health insurance
 
 As per given data we want to predict the charges required for insurance,and which suitable model is fit to this dataset for prediction.
+
+
+# Graduate admission Prediction Project:
+
+Differnent types of score are present as features in datset.
+
+According to the features we want to we want to set prediction in terms of percentage.
+
+Target column is Percentage of getting chances of admission.
+
+So we see that from pairplot that all featues are highly corealated with target variable so choose linear regression model.
+
+And check model performance  on the basis of r2 scre which is very good 0.82. 
